@@ -34,3 +34,8 @@ the speed of the uv value modification is based on if the flow is set to fast or
 add emission (black for slow, red for fast)\
 
 
+Bloom Explanation:
+Use box filter to modify each pixel.\
+Box filter grabs the surrounding pixels and base the current pixel's value on that\
+Do this only to pixels above a certain threshold\
+Repeat this based on the amount of inputted iterations.\
