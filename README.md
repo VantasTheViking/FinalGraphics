@@ -7,7 +7,7 @@ https://3dtextures.me/2016/05/05/lava-002/
 Controls:
 WASD - player\
 JK - light\
-QE - world light\\
+QE - world light\
 Num 1 - lava flow toggle\
 
 Wallpaper Explanation:
