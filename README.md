@@ -10,6 +10,9 @@ JK - light\
 QE - world light\
 Num 1 - lava flow toggle\
 
+Scene Explanation:
+Mikey (i think thats orange turtles name) can move WASD since i assume this game is a beatem up 2D game. Mikey also has a light to make him stand out more in the scene. The world light can move using QE to allow for testing and observation on the wall's normal map application. Roomlight can be moved via JK buttons to test/observe bloom.
+
 Wallpaper Explanation:
 Pseudocode
 
