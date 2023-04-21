@@ -46,3 +46,5 @@ Box filter grabs the surrounding pixels and base the current pixel's value on th
 Do this only to pixels above a certain threshold\
 Repeat this based on the amount of inputted iterations.\
 Modified threshold calculation to be simpler for easier adjustments.
+
+Screenshots at: https://github.com/VantasTheViking/FinalGraphics/tree/main/Screenshots
